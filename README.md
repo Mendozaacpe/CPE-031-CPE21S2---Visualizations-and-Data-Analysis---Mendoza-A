@@ -1,14 +1,20 @@
-# CPE-031_CPE21S2_Visualizations and Data Analysis_MENDOZA, A <br>
-  
-### This repository is for the tasks of CPE 031
+![Header](https://github.com/Mendozaacpe/CPE-031-CPE21S2---Visualizations-and-Data-Analysis---Mendoza-A/blob/main/BACKGROUND%20-%20CPE%20031.png)
 
-<div align="center">
-  
-<p alin="center".
-<img src="banner.png" width="100%".
-</p>
+<h1 align="center">Hi, I'm Ally! 💜</h1>
+<h3 align="center">2nd Year CPE Student</h3>
 
-# Hi, I'm Ally! 💜
-### 2nd Year CPE Student
-</div>
+----------------------------------------------------------------------------------------------------------------------------------
 
+## 🙎 About Me
+- CPE student at Technological Institute of the Philippines
+- Currently learning Python
+- Loves editing and designing
+
+## 📄 Contents
+- Laboratory Activities
+- Seatworks
+- Activities
+- Projects
+
+## 📧 Contact
+- Email: qamendoza25@tip.edu.ph
