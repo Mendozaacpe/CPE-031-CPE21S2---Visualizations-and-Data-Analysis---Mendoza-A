@@ -1,5 +1,12 @@
-# <h1 align= "center"> CPE-031_CPE21S2_Visualizations and Data Analysis_MENDOZA, A </h1> 
-<p align= "center><i> This repository is for the tasks of CPE 031. </i></p>
+<div alin="center">
+CPE-031_CPE21S2_Visualizations and Data Analysis_MENDOZA, A 
+This repository is for the tasks of CPE 031. 
 
-## <h1 align= "center"> Hi, I'm Ally! 💜 </h1>
-#### <h1 align= "center"> 2nd Year CPE Student </p>
+<p alin="center".
+<img src="banner.png" width="100%".
+</p>
+
+# Hi, I'm Ally! 💜
+### 2nd Year CPE Student
+</div>
+
